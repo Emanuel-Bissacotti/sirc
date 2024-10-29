@@ -1,1 +1,1 @@
-# sirc
+# Repositório das práticas finais do minicurso `github na pratica` do SIRC 2024
